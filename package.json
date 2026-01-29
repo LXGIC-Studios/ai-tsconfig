@@ -1,14 +1,42 @@
 {
   "name": "ai-tsconfig",
   "version": "1.0.0",
-  "description": "Generate optimal tsconfig.json for your project type",
+  "description": "AI-powered tsconfig generator - optimal TypeScript config with GPT",
   "main": "dist/index.js",
-  "bin": { "ai-tsconfig": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["tsconfig","typescript","ai","cli","config","generator"],
+  "bin": {
+    "ai-tsconfig": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "typescript",
+    "tsconfig",
+    "config",
+    "compiler",
+    "developer-tools",
+    "cli",
+    "automation",
+    "nodejs",
+    "strict",
+    "type-checking"
+  ],
   "license": "MIT",
-  "dependencies": { "commander": "^12.1.0", "openai": "^4.73.0", "ora": "^5.4.1" },
-  "devDependencies": { "typescript": "^5.6.0", "@types/node": "^22.0.0" },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "openai": "^4.73.0",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  },
   "author": "LXGIC Studios",
-  "repository": { "type": "git", "url": "https://github.com/LXGIC-Studios/ai-tsconfig" }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/ai-tsconfig"
+  }
 }
