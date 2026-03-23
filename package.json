@@ -37,7 +37,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-tsconfig#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-tsconfig"
+    "url": "git+https://github.com/LXGIC-Studios/ai-tsconfig.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-tsconfig/issues"
