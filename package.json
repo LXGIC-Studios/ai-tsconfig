@@ -1,5 +1,5 @@
 {
-  "name": "ai-tsconfig",
+  "name": "@lxgicstudios/ai-tsconfig",
   "version": "1.0.0",
   "description": "AI-powered tsconfig generator - optimal TypeScript config with GPT",
   "main": "dist/index.js",
